@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: James 的知識庫
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  locale: zh-TW
+  baseUrl: jamie33883838.github.io/knowledge
   ignorePatterns:
     - private
     - templates
